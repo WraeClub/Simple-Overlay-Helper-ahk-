@@ -6,4 +6,6 @@ Instructions for use...
 
 Note: The Home/End keys will only work while in-game. Pressing them outside of the poe window will do nothing (as to avoid interfering with your non-poe keyboard functionality, while the script is running). 
 
+To close the script entirely, press CTRL+ESCAPE
+
 Hope it makes things a bit more convenient for you guys!
